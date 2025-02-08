@@ -12,8 +12,7 @@ This repository contains solutions to exercises in **C**, **Python**, and **Java
 ## Installing Required Tools
 
 ### C Compiler (GCC/Clang)
-
-To compile and run **C** programs, install **GCC** (Linux/macOS) or MinGW (Windows):
+To compile and run **C** programs, install **GCC** (Linux/macOS) or **MinGW** (Windows):
 
 ```sh
 # On Debian/Ubuntu
@@ -29,7 +28,6 @@ winget install -e --id=MinGW.MinGW
 ### Python
 The exercises use Python 3.x. Install it via:
 
-sh
 ```sh
 # On Debian/Ubuntu
 sudo apt install python3  
@@ -56,7 +54,6 @@ winget install -e --id=Oracle.JDK.17
 ```
 
 ## Running the Code
-
 ### C Programs
 Navigate to the **`c/`** directory and compile a C program using GCC:
 
